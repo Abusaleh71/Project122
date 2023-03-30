@@ -43,7 +43,9 @@
           </div>
          <div class="container-fluide" id="footerdv">
           <p>@Copyrrigt.Mywebsite.2023</p>
-         </div>             
+         </div>  
+         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Natus iure debitis nihil id incidunt eius deserunt reprehenderit delectus, modi at quae ad est ullam dicta dolorum exercitationem sapiente veniam impedit.
+</p>           
 
 </body>
 </html>
