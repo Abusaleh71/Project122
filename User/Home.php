@@ -11,12 +11,12 @@
     <header>
         <nav>
           <ul>
-
+            <li>
   
-            <li><a href="#home">Home</a></li>
-            <li><a href="#services">Services</a></li>
-            <li><a href="#about">About Us</a></li>
-            <li><a href="#contact">Contact Us</a></li>
+            <li><a href="home.php">Home</a></li>
+            <li><a href="services.php">Services</a></li>
+            <li><a href="about.php">About Us</a></li>
+            <li><a href="contact.php">Contact Us</a></li>
           </ul>
         </nav>
       </header>      

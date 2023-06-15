@@ -11,19 +11,22 @@ header {
     display: flex;
   }
   
-  nav li {
+  nav ul li {
     margin-right: 20px;
+  
   }
   
-  nav a {
+  nav ul li a {
     color: #fff;
     text-decoration: none;
     font-weight: bold;
     font-size: 16px;
     transition: color 0.3s ease;
+    margin-left: 100px;
   }
   
-  nav a:hover {
-    color: #aaa;
+  nav ul li a:hover {
+    color: #ffffff;
+    background-color: black;
   }
   

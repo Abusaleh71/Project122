@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="Index2.css">
+    <link rel="stylesheet" href="Edit_prof.css">
     <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 
@@ -24,20 +24,19 @@
             <div class="col-md-4">
                <h4 id="Title">Controls For Admin<h4>
                 <ul type="none" id="navv">
-                  <li><a href="Home1.php"> Home </a></li>
+                <li><a href="Home1.php"> Home </a></li>
                   <li><a href="Edit_prof.php">Edit profile</a></li>
-                  <li><a href="#">Add another Admin</a></li>
-                  <li><a href="#">Add News</a></li>
-                  <li><a href="#">Add employee</a></li>
-                  <li><a href="#">Add videos</a></li>
-                  <li><a href="#">Manage videos</a></li>
-                  <li><a href="#">Show feedbacks</a></li>
+                  <li><a href="Add_admin.php">Add another Admin</a></li>
+                  <li><a href="Addnews.php">Add News</a></li>
+                  <li><a href="Addemployee.php">Add employee</a></li>
+                  <li><a href="Addvideos.php">Add videos</a></li>
+                  <li><a href="Managevds.php">Manage videos</a></li>
+                  <li><a href="Showfeedbacks.php">Show feedbacks</a></li>
                   <li><a href="#">Total Subscriber</a></li>
 
             </div>
             <div class="col-md-8" id="seconD">
               <div class="col-sm-6" id="ND">
-                <h1 id="wlcm"><b> Welcome To My Portfolio Website </b><h1>
               </div>
             
             </div>

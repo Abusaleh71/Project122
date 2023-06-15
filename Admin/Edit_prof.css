@@ -1,0 +1,61 @@
+#Hdiv{
+    padding: 20px;
+    border-bottom: 10px solid rgb(157, 255, 0);
+    background-color: antiquewhite;
+    
+  }
+  #Title{
+    background-color: rgb(10, 32, 82);
+    color: aliceblue;
+    font-size: 30px;
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    border-radius: 15%;
+  }
+   ul li{
+    line-height:30px;
+   
+  }
+  li{
+     display:block;
+     background-color: blanchedalmond;
+    border-bottom: 5px solid #442432;
+     padding-left: 20px;
+     text-decoration: none;
+     color:black
+
+
+  }
+  #navv li{
+    list-style-type: none;
+    margin-left: -25px;
+  }
+  #navv li a{
+    text-decoration: none;
+    color:black;
+  }
+  #navv li:hover{
+    background-color: greenyellow;
+  }
+  
+  
+  #wlcm{
+     text-align: center;
+     color:white;
+     padding-top:33px;
+  }
+  #footerdv{
+    background-color: yellowgreen;
+    height:30px;
+    width:100%;
+    
+    
+
+  }
+  #footerdv p{
+    text-align: center;
+    color:black;
+    padding-top: 3px;
+  }
+  
